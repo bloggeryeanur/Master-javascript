@@ -40,3 +40,39 @@
 // console.log('z'>'Z')
 
 // console.log('0001' == 1)
+
+//****String Method */
+// var a='I am '
+// var b='Yeanur Rahman'
+
+// var c = a.concat(' ',b)
+//console.log(c)
+// var d = c.substring(2, 9)
+// console.log(d)
+//console.log(b.charAt(3))
+//console.log(b.startsWith('Ye'))
+//console.log(b.endsWith('an'))
+// console.log(b.toUpperCase())
+// console.log(b.toLowerCase())
+// console.log('     yeanukjfajsf   '.trim())
+// console.log(b.split(''))
+
+//*****String Length */
+// var str = 'Yeanur Rahman'
+// var str2 = str.charAt(14)
+// console.log(typeof str2)
+
+// var str = "Yeanur Raman"
+// var lengthIs=0
+// while(true){
+//     if(str.charAt(lengthIs)===''){
+//         break
+//     }else{
+//         lengthIs++
+//     }
+// }
+// console.log(lengthIs)
+
+// var str = 'Yeanur Rahman'
+// console.log(str.length)
+
