@@ -9,6 +9,7 @@ for (let i = 0; i <= 10; i++) {
 }
 
 // Infinity Loop
+
 for(; ;){
  var rand = Math.round(Math.random()*15+1)
  if(rand===8){
@@ -19,3 +20,4 @@ for(; ;){
  }
 }
 */
+

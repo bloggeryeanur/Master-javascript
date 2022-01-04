@@ -24,7 +24,7 @@ while(true){
         console.log('8 Number is here')
         break;
     }else{
-        console.log('You have got '+rand)
+        console.log('You have got ')
     }
 }
 
@@ -36,4 +36,5 @@ for(i=1;i<=10;i++){
         console.log(i)
     }
 }
+
 */
