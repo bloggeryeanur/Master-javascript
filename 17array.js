@@ -8,6 +8,7 @@ console.log(arr.length)
 var arr2 = Array('name', 'age', 'passion')
 console.log(arr2)
 */
+
 ///******Array Traversey */প্রতিটা কে টাস করে যাওয়ার নামই ট্রাভারসি
 /*
 var arr = [1,2,3,4,5,6,7,8,9,10]
@@ -35,7 +36,8 @@ for(var i=0;i<arr.length;i++){
     }
 }
 */
-//******Remode and Replace */
+
+//******Remove and Replace */
 /*
 var arr = [1,2,3,4,5,6,6,7,8]
 arr.push(88)
@@ -79,9 +81,12 @@ for(var i=0;i<arr.length;i++){
 }
 */
 
+
+
 //*****Reverse array */
 // var arr = [1,2,3,4,5,6,7]//tyr 49 videos
 // console.log(arr.reverse())
+
 
 //*****Basic array Method */
 /*

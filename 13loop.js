@@ -1,18 +1,20 @@
-// for (let i = 1; i <= 10; i++) {
-//     console.log(i + ' Yeanur Raman')
-// }
+/*
+for (let i = 1; i <= 10; i++) {
+    console.log(i + ' Yeanur Raman')
+}
 
-// for (let i = 1; i < 15; i++) {
-//     if(i%2===1){
-//      console.log(i)   
-//     }
-// }
+for (let i = 1; i < 15; i++) {
+    if(i%2===1){
+     console.log(i)   
+    }
+}
 
-// var str=0
-// for(i=1;i<=10;i++){
-//     str += i
-//     console.log(str)
-// }
+var str=0
+for(i=1;i<=10;i++){
+    str += i
+    console.log(str)
+}
+*/
 
 //Interview
 // var sum=0
@@ -21,7 +23,6 @@
 //     sum += i 
 // }
 // console.log('All Result ' + sum)//1 to 100 number even number summation
-
 
 /////////////while loop/////////////////
 /*

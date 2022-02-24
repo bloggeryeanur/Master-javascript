@@ -15,3 +15,4 @@ console.log(fullname)
 var isTrue = false
 isTrue && console.log('Everything is ok')
 */
+

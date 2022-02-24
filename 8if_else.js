@@ -6,5 +6,3 @@
 // }else{
 //     console.log(n + ' Odd Numebr')
 // }
-
-

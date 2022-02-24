@@ -18,6 +18,7 @@ for(var i=1;i<=f;i++){
 }
 
 
+
 while(true){
     var rand = Math.floor(Math.random()*15+1)
     if(rand===8){

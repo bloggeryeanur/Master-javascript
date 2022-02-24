@@ -7,4 +7,3 @@ console.log(date.toLocaleString())
 
 console.log(date.getFullYear())//Month,date,houre,minute,second
 */
-

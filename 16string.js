@@ -1,29 +1,31 @@
-// //Literal and Constructor
-// var str = 1 + ''
-// console.log(typeof str)
-// var str2 = 44
-// var convart = str2.toString()
-// console.log(typeof convart)
+/*
+//Literal and Constructor
+var str = 1 + ''
+console.log(typeof str)
+var str2 = 44
+var convart = str2.toString()
+console.log(typeof convart)
 
-// var str3 = 1020
-// var conv1 = String(str3)
-// console.log(typeof conv1)
-
+var str3 = 1020
+var conv1 = String(str3)
+console.log(typeof conv1)
+*/
 
 // //****Escape Notation */
-// var str = 'Hello i\'m\ yeanur'
-// var str2 = 'Hello I am \'Rahman\''
-// console.log(str,str2)
+/*
+var str = 'Hello i\'m\ yeanur'
+var str2 = 'Hello I am \'Rahman\''
+console.log(str,str2)
 
-// var str3 = 'Hello yeanur \nRhaman ok'//New line
-// console.log(str3)
+var str3 = 'Hello yeanur \nRhaman ok'//New line
+console.log(str3)
 
-// var str4 = 'Yeanur is My \tname ok '//tab
-// console.log(str4)
+var str4 = 'Yeanur is My \tname ok '//tab
+console.log(str4)
 
-// var str5 = 'I am mad for \\js '
-// console.log(str5)
-
+var str5 = 'I am mad for \\js '
+console.log(str5)
+*/
 
 
 // ///*****String Conparison */

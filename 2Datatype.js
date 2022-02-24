@@ -18,6 +18,7 @@ var num = Number(n)
 console.log(typeof num)
 */
 
+
 //*****String*****/
 
 /*var name = 'Yeanur Rahman'//String Litiral
@@ -26,6 +27,7 @@ console.log(str,name)
 var NumberToString = String(334434)
 console.log(typeof NumberToString)
 */
+
 
 //******Boolean */
 /*

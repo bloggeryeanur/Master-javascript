@@ -14,3 +14,4 @@ var a=10
 var result = a%2===0 ? 'Even Number':'Odd Number'
 console.log(result)
 */
+
